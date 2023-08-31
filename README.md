@@ -45,7 +45,7 @@ To run the notebook and reproduce the analysis, follow these steps:
    ```
 3. Open the Jupyter Notebook using the command:
    ```
-     jupyter notebook Netflix_Data_Analysis.ipynb
+     jupyter notebook netflix_eda.ipynb
    ```
    ## Usage
 
