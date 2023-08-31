@@ -1,4 +1,4 @@
-# Netflix Data Analysis Project
+git# Netflix Data Analysis Project
 
 This project involves analyzing and exploring the Netflix dataset to gain insights into the content available on the platform. The dataset contains information about TV shows and movies available on Netflix, including details such as title, director, cast, country, release year, and more.
 
@@ -36,6 +36,10 @@ To run the notebook and reproduce the analysis, follow these steps:
 
 1. Clone this repository to your local machine:
 ```
-  git clone https://github.com/your-username/netflix-data-analysis.git
-  cd netflix-data-analysis
+  git clone https://github.com/your-username/netflix_eda.git
+  cd netflix_eda
 ```
+2. Install the required Python libraries. You can use the provided requirements.txt file or run the following command
+   ```
+   pip freeze > requirements.txt
+   ```
