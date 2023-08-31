@@ -43,3 +43,20 @@ To run the notebook and reproduce the analysis, follow these steps:
    ```
    pip freeze > requirements.txt
    ```
+3. Open the Jupyter Notebook using the command:
+   ```
+     jupyter notebook Netflix_Data_Analysis.ipynb
+   ```
+   ## Usage
+
+1. Open the Jupyter Notebook and run the cells sequentially.
+2. Each cell contains code and explanations to guide you through the analysis process.
+3. Explore the visualizations and conclusions to understand the insights derived from the dataset.
+
+## Contributing
+
+Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
