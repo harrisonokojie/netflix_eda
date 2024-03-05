@@ -36,7 +36,7 @@ To run the notebook and reproduce the analysis, follow these steps:
 
 1. Clone this repository to your local machine:
 ```
-  git clone https://github.com/your-username/netflix_eda.git
+  git clone https://github.com/harrisonokojie/netflix_eda.git
   cd netflix_eda
 ```
 2. Install the required Python libraries. You can use the provided requirements.txt file or run the following command
